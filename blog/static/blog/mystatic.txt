@@ -1,0 +1,1 @@
+static file holding by blog of static of blog
